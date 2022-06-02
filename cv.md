@@ -1,3 +1,3 @@
 # Marick
 
-### Contacts @gamil.com
+### Contacts marick@gmail.com

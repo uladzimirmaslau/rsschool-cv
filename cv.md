@@ -14,10 +14,11 @@
 * Cisco
 * Python (Basic)
 # Code Example
-    def multiply(a, b):
-        return a * b
-    print(multiply(1, 3))
-    
+    function sum(a, b) {
+      return a + b;
+    }
+    let result = sum(1, 2);
+    alert( result );
 # Education
 * University: Belarusian State Academy of Communications, Telecommunication networks
 * Courses:

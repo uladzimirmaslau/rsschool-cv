@@ -2,7 +2,7 @@
 
 # Contacts
 * Location: Minsk, Belarus
-* Phone: +375 29
+* Phone: +375 29 2640650
 * Email: marick.vova@gmail.com
 * GitHub: uladzimirmaslau
 
@@ -13,17 +13,20 @@
 # Skills
 * Cisco
 * Python (Basic)
+
 # Code Example
     function sum(a, b) {
       return a + b;
     }
     let result = sum(1, 2);
     alert( result );
+
 # Education
 * University: Belarusian State Academy of Communications, Telecommunication networks
 * Courses:
     + CCNA
     + CCNP
     + Stepik Python Generation: A Beginner's Course
+
 # English
    A2 (I study independently, including studying grammar from a book English Grammar in Use, Murphy R.)
